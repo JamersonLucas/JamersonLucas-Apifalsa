@@ -4,10 +4,10 @@
       "id": 1,
       "marca": "Toyota",
       "modelo": "Corolla",
-      "ano": 2020,
+      "ano": 2023,
       "cor": "Prata",
       "tipo": "Sedan",
-      "quilometragem": 30000,
+      "quilometragem": 3200,
       "portas": 4,
       "imagem": "https://via.placeholder.com/150"
     },
