@@ -16,44 +16,44 @@
       "marca": "Honda",
       "modelo": "Civic",
       "ano": 2019,
-      "cor": "Preto",
+      "cor": "Branco",
       "tipo": "Sedan",
-      "quilometragem": 45000,
+      "quilometragem": 45320,
       "portas": 4,
-      "imagem": "https://via.placeholder.com/150"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/2019_Honda_Civic_coupe_%28facelift%29%2C_front_12.16.19.jpg/450px-2019_Honda_Civic_coupe_%28facelift%29%2C_front_12.16.19.jpg"
     },
     {
       "id": 3,
       "marca": "Chevrolet",
       "modelo": "Onix",
-      "ano": 2021,
-      "cor": "Branco",
+      "ano": 2020,
+      "cor": "Vermelho",
       "tipo": "Hatch",
       "quilometragem": 15230,
       "portas": 4,
-      "imagem": "https://via.placeholder.com/150"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Chevrolet_Onix_II_front_Brazil.jpg/450px-Chevrolet_Onix_II_front_Brazil.jpg"
     },
     {
       "id": 4,
       "marca": "Ford",
       "modelo": "EcoSport",
       "ano": 2018,
-      "cor": "Vermelho",
+      "cor": "Branco",
       "tipo": "SUV",
-      "quilometragem": 60000,
+      "quilometragem": 60250,
       "portas": 4,
-      "imagem": "https://via.placeholder.com/150"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2018_Ford_EcoSport_ST-Line_1.0_%281%29.jpg/450px-2018_Ford_EcoSport_ST-Line_1.0_%281%29.jpg"
     },
     {
       "id": 5,
       "marca": "Volkswagen",
       "modelo": "Gol",
-      "ano": 2022,
-      "cor": "Azul",
+      "ano": 2021,
+      "cor": "Vermelho",
       "tipo": "Hatch",
-      "quilometragem": 5000,
+      "quilometragem": 5300,
       "portas": 4,
-      "imagem": "https://via.placeholder.com/150"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Volkswagen_Gol_Sedan_--_Front.JPG/375px-Volkswagen_Gol_Sedan_--_Front.JPG"
     }
   ]
 }
